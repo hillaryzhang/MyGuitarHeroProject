@@ -1,10 +1,4 @@
-// Hillary Zhang
-// 1/19/19
-// CSE143
-// TA: Sea Eun Lee
-// Section: AV
-// Assignment #2 Guitar Hero pt.1 GuitarString
-
+//// WRITTEN BY HILLARY ZHANG, 2019
 
 import java.util.*;
 
